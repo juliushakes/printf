@@ -1,4 +1,6 @@
- _printf("Length:[%d, %i]\n", len, len);
+This is the directory for the printf ALX project.
+
+_printf("Length:[%d, %i]\n", len, len);
 
 
 printf("Length:[%d, %i]\n", len2, len2);
