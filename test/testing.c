@@ -39,7 +39,7 @@ int main(void)
     _printf("Len:[%d]\n", len);
     printf("Len:[%d]\n", len2);
     _printf("Unknown:[%r]\n");
-    printf("Unknown:[%r]\n");
+    /*printf("Unknown:[%r]\n");*/
     _printf("Thi%c serves %s ensure that the code works %d percent!\n", "s", "to", 100);
     return (0);
 }
