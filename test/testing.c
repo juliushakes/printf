@@ -40,6 +40,6 @@ int main(void)
     printf("Len:[%d]\n", len2);
     _printf("Unknown:[%r]\n");
     printf("Unknown:[%r]\n");
-    _printf("Thi%c serves %s ensure that the code works %d!\n", "s", "to", 100)
+    _printf("Thi%c serves %s ensure that the code works %d percent!\n", "s", "to", 100);
     return (0);
 }
